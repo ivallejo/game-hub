@@ -30,4 +30,4 @@ const GameGrid = () => {
   )
 }
 
-export default GameGrid
+export default GameGrid;
